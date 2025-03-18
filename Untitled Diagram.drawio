@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WueEAgcvYy96qv5-CncF-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="160" width="860" height="860" as="geometry" />
+        </mxCell>
         <mxCell id="WueEAgcvYy96qv5-CncF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;" edge="1" parent="1" source="WueEAgcvYy96qv5-CncF-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="662.75" y="340" as="targetPoint" />
@@ -84,6 +87,9 @@
         </mxCell>
         <mxCell id="WueEAgcvYy96qv5-CncF-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;@amruthpuppala&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WueEAgcvYy96qv5-CncF-48" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;RAG Architecture&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="860" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
